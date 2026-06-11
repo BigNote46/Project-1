@@ -20,4 +20,4 @@
 * **CSS Framework:** [Bootstrap 5](https://getbootstrap.com/) (ช่วยจัด Layout และตกแต่ง UI ให้ทันสมัย)
 * **Icon Library:** [Font Awesome 6](https://fontawesome.com/) (สำหรับไอคอนกราฟิกประดับหน้าเว็บ)
 * **Storage:** LocalStorage (Web Storage API) สำหรับบันทึกข้อมูลฝั่ง Client-si
-*
+
