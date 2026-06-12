@@ -21,4 +21,10 @@
 * **CSS Framework:** [Bootstrap 5](https://getbootstrap.com/) (ช่วยจัด Layout และตกแต่ง UI ให้ทันสมัย)
 * **Icon Library:** [Font Awesome 6](https://fontawesome.com/) (สำหรับไอคอนกราฟิกประดับหน้าเว็บ)
 * **Storage:** LocalStorage (Web Storage API) สำหรับบันทึกข้อมูลฝั่ง Client-si
+## 📦 โครงสร้างไฟล์ในโปรเจค (Project Structure)
 
+```text
+smart-budget-app/
+├── index.html          # โครงสร้างหน้าเว็บ และ UI ของระบบ
+├── app.js             # Logic การคำนวณข้อมูลและการจัดการ LocalStorage
+└── README.md          # เอกสารอธิบายโปรเจค
